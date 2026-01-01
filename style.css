@@ -216,6 +216,7 @@ h2 {
     background: #0b1d4a;
     color: #fff;
     border-radius: 6px;
+    resize: none;
 }
 
 .footer-form button {
